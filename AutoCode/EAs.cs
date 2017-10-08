@@ -8,7 +8,7 @@ namespace AutoCode
 {
     class EAclass
     {
-        public string symbol { get; set; }
+        public string symbolic { get; set; }
         public string adress { get; set; }
     }
 
