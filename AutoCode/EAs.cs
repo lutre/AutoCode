@@ -11,4 +11,5 @@ namespace AutoCode
         public string symbol { get; set; }
         public string adress { get; set; }
     }
+
 }
